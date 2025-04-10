@@ -1,0 +1,20 @@
+# Ignore the WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Ignore the WordPress content directory for uploads and plugins (if you don’t want to version control these)
+wp-content/uploads/
+/wp-content/cache/
+/wp-content/backups/
+
+# Ignore the node_modules directory if you're using Node.js/npm
+/node_modules/
+
+# Ignore the vendor directory if using Composer for dependency management
+/vendor/
+
+# Ignore the database dump files
+*.sql
+
+# Ignore the .DS_Store file (specific to macOS)
+.DS_Store
