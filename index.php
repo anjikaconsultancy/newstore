@@ -1,3 +1,3 @@
 <?php 
-echo "update code update fdf" ;
+echo "file from git " ;
 ?>
