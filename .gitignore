@@ -7,6 +7,9 @@ wp-content/uploads/
 /wp-content/cache/
 /wp-content/backups/
 
+# Ignore any configuration files (like wp-config.php)
+wp-config.php
+
 # Ignore the node_modules directory if you're using Node.js/npm
 /node_modules/
 
